@@ -18,8 +18,8 @@ Translated with DeepL.com (free version)
 - [X] Criar Sobre nós.
 - [X] Criar Serviços.
 - [X] Criar Portifólio.
-- [] Criar Contato.
-- [] Criar rodapé.
+- [X] Criar Contato.
+- [X] Criar rodapé.
 - [] Criar página em Inglês.
 - [] Criar página em Espanhol.
 
@@ -28,7 +28,7 @@ Translated with DeepL.com (free version)
 - [X] Create About us.
 - [X] Create Services.
 - [X] Create Portfolio.
-- [] Create Contact.
-- [] Create footer.
+- [X] Create Contact.
+- [X] Create footer.
 - [] Create page in English.
 - [] Create page in Spanish.
