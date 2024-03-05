@@ -20,8 +20,8 @@ Translated with DeepL.com (free version)
 - [X] Criar Portifólio.
 - [X] Criar Contato.
 - [X] Criar rodapé.
-- [] Criar página em Inglês.
-- [] Criar página em Espanhol.
+- [X] Criar página em Inglês.
+- [X] Criar página em Espanhol.
 
 ## Objectives
 - [X] Create menu.
@@ -30,5 +30,5 @@ Translated with DeepL.com (free version)
 - [X] Create Portfolio.
 - [X] Create Contact.
 - [X] Create footer.
-- [] Create page in English.
-- [] Create page in Spanish.
+- [X] Create page in English.
+- [X] Create page in Spanish.
